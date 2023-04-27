@@ -1,5 +1,5 @@
 # Godot-Big-Maths
-A script for godot capable of doing math with very large number. It uses Strings instead of int or float to circumvent the limit
+A script for godot capable of doing math with very large number. It uses Strings instead of int or float to circumvent the limit. I've only tested this in Godot 3.5
 
 Theoretically, the maximum number of digits that it can calculate is 9,223,372,036,854,775,807, but the calculation time increases as the number of digits increases.
 
